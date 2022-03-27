@@ -10,7 +10,6 @@ The project is a monitoring system that indicates the value of some parameters s
 -The gas leak<br>
 
 ## Technologies Used:
-<br>
 -Arduino <br>
 -Google Firebase platform <br>
 -Flutter <br>
@@ -29,6 +28,7 @@ dashboard page: <br>
 <br>
 -Install Flutter SDK (last version).<br>
 -Install Arduino IDE.<br>
+-install android studio or Visual Studio Code.<br>
 
 ## Project Status:
 <br>
