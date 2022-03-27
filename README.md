@@ -34,6 +34,5 @@ dashboard page: <br>
 Project is: complete<br>
 
 ## Authors:
-<br>
 Yassin bouabid [https://github.com/yassinebid] <br>
 Mouadh amemri [https://github.com/mouadhx04]
