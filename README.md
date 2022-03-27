@@ -19,7 +19,11 @@ The project is a monitoring system that indicates the value of some parameters s
 <br>
 Logo of the app: <br>
 
-![logo (3)](https://user-images.githubusercontent.com/85496711/160296864-11ca984f-9de0-420f-9155-6144578cf7b4.jpg)
+![logo (3)](https://user-images.githubusercontent.com/85496711/160296864-11ca984f-9de0-420f-9155-6144578cf7b4.jpg) 
+<br>
+dashboard page: <br>
+
+![dashboard (1)](https://user-images.githubusercontent.com/85496711/160297381-21f45417-321b-4551-b7b9-41cc6929a295.jpg)
 
 ## Setup:
 <br>
@@ -31,5 +35,6 @@ Logo of the app: <br>
 Project is: complete<br>
 
 ## Authors:
+<br>
 Yassin bouabid [https://github.com/yassinebid]
 Mouadh amemri [https://github.com/mouadhx04]
