@@ -31,10 +31,9 @@ dashboard page: <br>
 -install android studio or Visual Studio Code.<br>
 
 ## Project Status:
-<br>
 Project is: complete<br>
 
 ## Authors:
 <br>
-Yassin bouabid [https://github.com/yassinebid]
+Yassin bouabid [https://github.com/yassinebid] <br>
 Mouadh amemri [https://github.com/mouadhx04]
