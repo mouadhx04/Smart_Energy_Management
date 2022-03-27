@@ -3,7 +3,7 @@ Smart Energy Management (SEM) is an android application for the monitoring of cl
 
 ## General Information
 The project is a monitoring system that indicates the value of some parameters such as:
-####Unordered list (-)
+<br>
 -The humidity of the air
 -The temperature
 -The electricity
