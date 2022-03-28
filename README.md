@@ -1,5 +1,6 @@
 # Smart Energy Management (SEM):
 Smart Energy Management (SEM) is an android application for the monitoring of climate data based on Internet of Things (IoT).
+this project is done for Holberton school at the end of the foundation year.
 
 ## General Information:
 The project is a monitoring system that indicates the value of some parameters such as:
